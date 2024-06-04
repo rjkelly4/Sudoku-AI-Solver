@@ -16,7 +16,7 @@ show the player the solution and how it was solved.
 
 - pygame
 
-## How to play
+## Instructions
 
 - Run 'python sudoku.py' in terminal
 - Click on a square to select it
